@@ -6,4 +6,9 @@ public class Hello{
     public static void greeting (String name){
         System.out.println("hello" +name);
     }
+
+    public static int sqr(int x) {
+        System.out.println("hello" +name);
+        return x*x;
+    }
 }
